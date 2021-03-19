@@ -1,4 +1,4 @@
 # Welcome to My Assignment 1
  <p>My Profile</p>
-    TengHui Peng
-    s3713664
+ <p>TengHui Peng</p>
+ <p>s3713664</p>
